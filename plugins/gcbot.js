@@ -7,11 +7,11 @@ let handler = async (m, { conn }) => conn.send2ButtonLoc(m.chat, await (await fe
 ║ _*Group All*_  𝐉𝐚𝐫𝐨𝐭 ×͜×
 ╠═══════════════════
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 1
-║ https://tinyurl.com/2nchxnpa
+║ https://tinyurl.com/y7xymnkd
 ║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 2
-║ https://tinyurl.com/2gptyhqs
-║➸ 𝐆𝐫𝐨𝐮𝐩 𝐁𝐨𝐭 3
-║ https://bit.ly/3zvNS1w
+║ https://tinyurl.com/yc92fva7
+║➸ 𝐘𝐨𝐮𝐭𝐮𝐛𝐞
+║ https://tinyurl.com/ya49ovfp
 ╚════════════════════
 ╔════════════════════
 ║ *RULES GROUP BOT*
