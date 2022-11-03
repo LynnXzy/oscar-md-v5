@@ -1,11 +1,11 @@
 global.you = ['6282146218274'] 
 //Developer Bot
 global.gc = 'https://chat.whatsapp.com/BcVGEUc1gHR78CpYQPM2ic'
-global.rowner = ['6282146218274'] // Real Owner Bot
-global.owner = ['6282146218274'] // Owner Bot
-global.police = ['6282146218274'] // Police Bot
-global.mods = ['6282146218274']  // Want some help?
-global.prems = ['6282146218274'] // Premium user has unlimited limit
+global.rowner = ['60189830350'] // Real Owner Bot
+global.owner = ['60189830350'] // Owner Bot
+global.police = ['60189830350'] // Police Bot
+global.mods = ['60189830350']  // Want some help?
+global.prems = ['60189830350'] // Premium user has unlimited limit
 global.fotonya1 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini kalo mau di ganti silahkan ganti aja
 global.fotonya2 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //gw lupa nih foto apa aja:v
 global.fotonya3 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini juga ganti
@@ -15,7 +15,7 @@ global.fotonya6 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini gant
 global.fotonya7 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
 global.instagram = 'https://instagram.com/riellxd_4'
 
-global.helper = ['6282146218274']
+global.helper = ['60189830350']
 global.APIs = { // API Prefix
   // name: 'https://website'
   amel: 'https://melcanz.com',
