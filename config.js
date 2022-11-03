@@ -6,14 +6,14 @@ global.owner = ['60189830350'] // Owner Bot
 global.police = ['60189830350'] // Police Bot
 global.mods = ['60189830350']  // Want some help?
 global.prems = ['60189830350'] // Premium user has unlimited limit
-global.fotonya1 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini kalo mau di ganti silahkan ganti aja
-global.fotonya2 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //gw lupa nih foto apa aja:v
-global.fotonya3 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini juga ganti
-global.fotonya4 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini juga ganti
-global.fotonya5 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini juga ganti
-global.fotonya6 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg' //ini ganti pakai foto sosialmedia mu
-global.fotonya7 = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
-global.instagram = 'https://instagram.com/riellxd_4'
+global.fotonya1 = 'https://telegra.ph/file/f7505229ae221da1b4df0.png' //ini kalo mau di ganti silahkan ganti aja
+global.fotonya2 = 'https://telegra.ph/file/f7505229ae221da1b4df0.png' //gw lupa nih foto apa aja:v
+global.fotonya3 = 'https://telegra.ph/file/f7505229ae221da1b4df0.png' //ini juga ganti
+global.fotonya4 = 'https://telegra.ph/file/f7505229ae221da1b4df0.png' //ini juga ganti
+global.fotonya5 = 'https://telegra.ph/file/f7505229ae221da1b4df0.png' //ini juga ganti
+global.fotonya6 = 'https://telegra.ph/file/f7505229ae221da1b4df0.png' //ini ganti pakai foto sosialmedia mu
+global.fotonya7 = 'https://telegra.ph/file/f7505229ae221da1b4df0.png'
+global.instagram = 'https://instagram.com/botzlynx'
 
 global.helper = ['60189830350']
 global.APIs = { // API Prefix
@@ -67,7 +67,7 @@ global.socket = {
 
 global.useMulti = false
 
-global.media = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
+global.media = 'https://telegra.ph/file/a6180584d63dac47c6e40.png'
 
 /*=========== TYPE DOCUMENT ===========*/
 global.dpptx = 'application/vnd.openxmlformats-officedocument.presentationml.presentation'
