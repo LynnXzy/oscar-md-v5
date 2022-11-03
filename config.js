@@ -76,16 +76,16 @@ global.dxlsx = 'application/vnd.openxmlformats-officedocument.spreadsheetml.shee
 global.dpdf = 'application/pdf'
 global.drtf = 'text/rtf'
 
-global.thumbdoc = 'https://telegra.ph/file/0e4fb9bfb49f985ef053e.jpg'
+global.thumbdoc = 'https://telegra.ph/file/efbe3e638d613d5176c2a.png'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '564588643' // default 10TB
 global.fpagedoc = '444'
 
 // Sticker WM
-global.packname = '×͜× ▭▬▭▬▭▬ 👑 ▭▬▭▬▭▬ ×͜×\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 𝗥𝗶𝗲𝗹𝗹𝗫𝗱 𝗫 𝘄𝗮𝗵𝘆𝘂 𝗮𝗻𝗶𝗺𝗲𝗸\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗞𝗮𝘆𝗹𝗮 : 082146218274\nﾒ 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 : 𝗥𝗶𝗲𝗹𝗹𝗯𝗼𝘁𝘇 𝗢𝗳𝗳𝗰\n⊟————————⊟'
-global.author = 'RiellGanzz'
-global.wm = '© Khurushi Md'
+global.packname = '×͜× ▭▬▭▬▭▬ 👑 ▭▬▭▬▭▬ ×͜×\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗲𝗱 𝗕𝘆 𝗟𝘆𝗻𝗻-𝗠𝗱\nﾒ 𝗖𝗿𝗲𝗮𝘁𝗼𝗿 𝗟𝗮𝗻𝗻 : 60189830350\nﾒ 𝗬𝗼𝘂𝘁𝘂𝗯𝗲 : LynnXzy ?\n⊟————————⊟'
+global.author = '𝑩𝒐𝒕𝒛 𝑾𝒂'
+global.wm = '© 𝑳𝒚𝒏𝒏-𝑴𝒅'
 
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 
